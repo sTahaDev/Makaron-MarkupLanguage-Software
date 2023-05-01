@@ -1,0 +1,6 @@
+<Text ,title="Hello World" ,id="textid" ,/> ;
+
+<Entry ,title="" ,id="entry1" ,/> ;
+<Button  , id="buttonid" , title="press",/> ;
+
+
