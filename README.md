@@ -10,7 +10,7 @@ git clone https://github.com/sTahaDev/Makaron-MarkupLanguage-Software
 
 - Open Project with [VS Code](https://code.visualstudio.com/) or any editor
 # Dependencies
-- You must download Tkinter for run this project
+- You must download Tkinter for run this project <br>
 <code>pip install tk</code>
 # How To Run
 - Get into the project and open terminal
