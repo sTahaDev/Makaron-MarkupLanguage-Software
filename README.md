@@ -14,6 +14,8 @@ git clone https://github.com/sTahaDev/Makaron-MarkupLanguage-Software
 <code>pip install tk</code>
 # How To Run
 - Get into the project and open terminal
+- Copy the project path
+- Run <code>cd [your_copied_path]</code> on your terminal
 - Run <code>python main.py</code> on your terminal
 
 # Docs
