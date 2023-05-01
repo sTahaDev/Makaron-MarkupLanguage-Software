@@ -6,7 +6,7 @@
 ```
 git clone https://github.com/sTahaDev/Makaron-MarkupLanguage-Software
 ```
-> If you dont if you didn't download <code> git </code> , you can download it by clicking the green button above
+> If you didn't download <code> git </code> , you can download it by clicking the green button above
 
 - Open Project with [VS Code](https://code.visualstudio.com/) or any editor
 # Dependencies
