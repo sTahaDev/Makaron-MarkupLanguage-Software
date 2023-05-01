@@ -17,6 +17,7 @@ git clone https://github.com/sTahaDev/Makaron-MarkupLanguage-Software
 - Copy the project path
 - Run <code>cd [your_copied_path]</code> on your terminal
 - Run <code>python main.py</code> on your terminal
-
+# Setup Video
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=i1OiVdCo3N4)
 # Docs
 - Getting Soon
