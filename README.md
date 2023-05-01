@@ -1,4 +1,4 @@
-# Makaron-MarkupLanguage-Software V0.1 Beta
+# Makaron-MarkupLanguage-Software v0.1 Beta
  Markup language for python based tkinter
 # Project Setup
 - First download [Python](https://www.python.org/)
